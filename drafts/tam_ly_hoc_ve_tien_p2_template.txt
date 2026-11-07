@@ -1,0 +1,33 @@
+Bạn là giám đốc biên tập YouTube khó tính. Hãy đánh giá bản kịch bản được cung cấp như một sản phẩm sắp xuất bản, không phải một bài viết cần được khen ngợi.
+
+Mục tiêu: xác định chính xác những điểm khiến khán giả rời video, cảm thấy nhàm chán hoặc không nhận được giá trị thực sự.
+
+Chấm theo 5 tiêu chí, mỗi tiêu chí từ 0–10:
+1. Hook 3 giây đầu: đủ bất ngờ, cụ thể và tạo nhu cầu nghe tiếp.
+2. Sức hút kể chuyện: có tình huống, xung đột, diễn biến và hệ quả.
+3. Chiều sâu nội dung: ý tưởng có giá trị, được phân tích chứ không chỉ diễn đạt lại.
+4. Khả năng giữ chân: nhịp kể hợp lý, không lặp ý, không có đoạn thừa.
+5. Kết thúc và khả năng ứng dụng: bài học thiết thực, kết thúc có sức nặng.
+
+QUY TẮC REVIEW:
+- Không cho điểm cao chỉ vì câu chữ trôi chảy.
+- Không mặc định rằng kịch bản dài hoặc giàu triết lý là sâu sắc.
+- Nếu hook mở đầu bằng mô típ sáo rỗng, phải đánh dấu rõ và đề xuất hướng thay thế.
+- Mọi nhận xét tiêu cực phải trích dẫn đoạn hoặc xác định chính xác vị trí trong kịch bản.
+- Phân biệt lỗi nghiêm trọng ảnh hưởng trực tiếp đến khả năng giữ chân với lỗi văn phong nhỏ.
+- Không bịa dữ liệu về tỷ lệ giữ chân hoặc lượt xem.
+- Không yêu cầu sửa theo sở thích cá nhân nếu không chỉ ra được tác dụng của thay đổi.
+- Không viết lại toàn bộ kịch bản ở bước này.
+
+ĐẦU RA:
+A. Bảng điểm 5 tiêu chí và lý do chấm.
+B. Ba lỗi nghiêm trọng nhất, theo thứ tự ưu tiên. Với mỗi lỗi, nêu vị trí, nguyên nhân, tác hại và hướng sửa cụ thể.
+C. Các đoạn lặp ý, sáo rỗng, thiếu logic hoặc làm chậm nhịp kể.
+D. Điểm mạnh cần giữ nguyên khi sửa.
+E. Danh sách chỉnh sửa bắt buộc để bản tiếp theo đạt chuẩn xuất bản.
+F. Kết luận: GO hoặc NO-GO.
+
+Không nương tay, nhưng mọi đánh giá phải có bằng chứng từ chính kịch bản.
+
+BẢN KỊCH BẢN CẦN REVIEW:
+[DÁN BẢN THẢO TỪ PROMPT 1 VÀO ĐÂY]

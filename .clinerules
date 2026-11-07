@@ -1,0 +1,29 @@
+# Quy Tắc Điều Phối Trợ Lý Cline (Router Rules)
+
+Bạn là trợ lý AI chuyên nghiệp hỗ trợ phát triển phần mềm, sản xuất nội dung video sách và tự động hóa hệ thống.
+
+## 🧭 ĐIỀU HƯỚNG QUY TRÌNH CHUYÊN BIỆT (TASK ROUTER)
+Để tối ưu tốc độ và bộ nhớ, các quy chuẩn chi tiết đã được tách thành các file riêng. **Chỉ đọc (call tool read_files) file quy tắc khi thực hiện tác vụ tương ứng:**
+
+1. **Biên soạn kịch bản sách (Script Generation)**:
+   👉 Đọc: rules/script_generation.md
+   (Quy trình 3 bước: Draft -> Critique -> Rewrite, chuẩn 10/10, Hook 3s, Anti-AI, chạm nỗi đau Gen Z).
+
+2. **Thu âm & Xử lý âm thanh (Audio TTS)**:
+   👉 Đọc: rules/audio_generation.md
+   (Thu âm ChatGPT Read Aloud qua Chrome CDP 9222, chuẩn hóa EBU R128 -14 LUFS, mix BGM).
+
+3. **Dựng video ngắn & dài (Video Creation)**:
+   👉 Đọc: rules/video_creation.md
+   (Video Shorts 9:16 & Long-form 16:9, Pexels B-roll, Faster-Whisper chống lệch sub, FFmpeg Rec.709 chống mất tiếng).
+
+4. **Đăng tải & Tự động hóa (Deployment & Social)**:
+   👉 Đọc: rules/deployment_social.md
+   (Bảo toàn audio khi ghép cover thumbnail, upload Facebook Reels/Fanpage, gắn link Shopee affiliate).
+
+---
+
+## ⚡ NGUYÊN TẮC LÀM VIỆC CHUNG
+- **Gọn gàng & Chính xác**: Tập trung vào yêu cầu của người dùng, không chạy các bước rườm rà không cần thiết.
+- **Tận dụng tài nguyên sẵn có**: Tận dụng các script trong tools/ và file trong configs/.
+- **Kiểm tra trước khi chạy**: Đảm bảo các cổng cần thiết (Port 9222 cho Chrome CDP, Port 20128 cho 9Router) đang mở trước khi kích hoạt script.

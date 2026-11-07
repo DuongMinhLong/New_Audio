@@ -1,0 +1,53 @@
+{
+  "title": "Bi Kịch Của Những 'Người Giàu Giả Tạo': Bão Giá Nhà, Thẻ Tín Dụng & Ảo Tưởng Tự Do",
+  "book_title": "Tâm Lý Học Về Tiền (The Psychology of Money)",
+  "author": "Morgan Housel",
+  "total_target_words": 2200,
+  "parts": [
+    {
+      "part_id": 1,
+      "name": "The Modern Trap",
+      "target_words": 380,
+      "objective": "Bắt quả tang nỗi đau",
+      "key_points": [
+        "Lương 8-10 triệu nhưng quẹt thẻ tín dụng mua trước trả sau (BNPL) xài đồ hiệu, uống cafe sang chảnh, giá nhà đất tăng phi mã khiến người trẻ mất phương hướng."
+      ]
+    },
+    {
+      "part_id": 2,
+      "name": "The Core Lens",
+      "target_words": 480,
+      "objective": "Mổ xẻ qua cuốn sách",
+      "key_points": [
+        "Sự giàu có thực sự là những thứ bạn KHÔNG tiêu xài; tiêu tiền để chứng minh mình giàu cho người khác thấy là con đường nhanh nhất dẫn đến kiệt quệ tài chính."
+      ]
+    },
+    {
+      "part_id": 3,
+      "name": "The Contrarian Deconstruction",
+      "target_words": 480,
+      "objective": "Bẻ gãy self-help",
+      "key_points": [
+        "Tư duy ngược"
+      ]
+    },
+    {
+      "part_id": 4,
+      "name": "The Strategic Framework",
+      "target_words": 480,
+      "objective": "Hệ thống hành động",
+      "key_points": [
+        "3 bước thực tế"
+      ]
+    },
+    {
+      "part_id": 5,
+      "name": "The Awakening Monologue",
+      "target_words": 280,
+      "objective": "Độc thoại kết thúc",
+      "key_points": [
+        "Lắng đọng đêm muộn"
+      ]
+    }
+  ]
+}

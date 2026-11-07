@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "xa_hoi_met_moi_long",
+    "title": "Xã Hội Mệt Mỏi & Nghịch Lý Tự Do Ảo",
+    "book_title": "Xã Hội Mệt Mỏi (The Burnout Society)",
+    "author": "Byung-Chul Han",
+    "core_message": "Chúng ta không còn bị bóc lột bởi người khác, mà tự biến mình thành nô lệ và cai ngục của chính mình dưới danh nghĩa 'tự do', 'đam mê' và 'phát triển bản thân'.",
+    "gen_z_pain_point": "Áp lực làm giàu trước tuổi 30, kiệt sức văn phòng 10-12 tiếng, đêm về lướt mạng dằn vặt bản thân, bẫy 'chữa lành' tốn kém để có sức đi cày tiếp.",
+    "target_duration_mins": 12,
+    "target_words": 2000
+  },
+  {
+    "slug": "tam_ly_hoc_ve_tien_long",
+    "title": "Bi Kịch Của Những 'Người Giàu Giả Tạo': Bão Giá Nhà, Thẻ Tín Dụng & Ảo Tưởng Tự Do",
+    "book_title": "Tâm Lý Học Về Tiền (The Psychology of Money)",
+    "author": "Morgan Housel",
+    "core_message": "Sự giàu có thực sự là những thứ bạn KHÔNG tiêu xài; tiêu tiền để chứng minh mình giàu cho người khác thấy là con đường nhanh nhất dẫn đến kiệt quệ tài chính.",
+    "gen_z_pain_point": "Lương 8-10 triệu nhưng quẹt thẻ tín dụng mua trước trả sau (BNPL) xài đồ hiệu, uống cafe sang chảnh, giá nhà đất tăng phi mã khiến người trẻ mất phương hướng.",
+    "target_duration_mins": 14,
+    "target_words": 2200
+  },
+  {
+    "slug": "dam_bi_ghet_long",
+    "title": "Tại Sao Bạn Luôn Cảm Thấy Mình Là Kẻ Bất Tài Lúc 2 Giờ Sáng?",
+    "book_title": "Dám Bị Ghét (The Courage to be Disliked)",
+    "author": "Ichiro Kishimi & Fumitake Koga",
+    "core_message": "Mọi phiền muộn đều bắt nguồn từ mối quan hệ xã hội; ta đang đau khổ vì cố gắng làm hài lòng một khán giả vô hình; tự do đích thực là dám chấp nhận bị người khác ghét.",
+    "gen_z_pain_point": "Hội chứng sợ bị phán xét (People-Pleaser), lướt Threads thấy bạn bè flex thành công rồi tự ti, overthinking từng tin nhắn đã xem không trả lời.",
+    "target_duration_mins": 12,
+    "target_words": 2000
+  }
+]
